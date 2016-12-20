@@ -1,3 +1,5 @@
 .gitattributes git-encoding=ISO8859-1 working-tree-encoding=ISO8859-1                                      
-*_1111 git-encoding=ISO8859-1 working-tree-encoding=ISO8859-1                                           
-*_2222 git-encoding=ISO8859-1 working-tree-encoding=IBM-1047
+*_s git-encoding=ISO8859-1 working-tree-encoding=ISO8859-1                                           
+*_b git-encoding=ISO8859-1 working-tree-encoding=IBM-1047
+*_bin binary
+*_b1 working-tree-encoding=binary
