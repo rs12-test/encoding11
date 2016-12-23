@@ -3,3 +3,5 @@
 *_b git-encoding=ISO8859-1 working-tree-encoding=IBM-1047
 *_bin binary
 *_b1 working-tree-encoding=binary
+1.png binary
+2.png BINARY
