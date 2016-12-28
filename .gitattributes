@@ -8,3 +8,4 @@
 3.png binary
 4.png binary
 bi_* git-encoding=BINARY working-tree-encoding=BINARY
+*_123 working-tree-encoding=IBM-1047
